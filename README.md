@@ -96,17 +96,17 @@ A comprehensive **BMW Sales Analytics Dashboard** built with **Power BI**, analy
 ### Main Dashboard
 *Executive overview showing total revenue of $376M, regional distribution across 5 continents, and model performance metrics*
 
-![Dashboard Overview](Dashboard-1.jpg)
+![Dashboard Overview](Dashboard-1.png)
 
 ### Model Details Page
 *Individual model analysis showing BMW 8 Series with average price of 75.60K, yearly sales trends from 2019-2023, and quarterly revenue breakdown of $1.13bn*
 
-![Model Details](Model-details.jpg)
+![Model Details](Model-details.png)
 
 ### Data Model Architecture
 *Star schema showing relationships between fact table (BMW Sales Data), dimension tables (Countries with Flags, Car Images, dim model, dim channel, Calendar, PERIOD), and all measure table*
 
-![Data Modeling](Data-modilling.jpg)
+![Data Modeling](Data-modilling.png)
 
 ## 🚀 How to Use
 
